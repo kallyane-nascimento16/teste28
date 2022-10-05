@@ -1,0 +1,8 @@
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\parametross\parametros\bin\Debug\parametros.exe.config
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\parametross\parametros\bin\Debug\parametros.exe
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\parametross\parametros\bin\Debug\parametros.pdb
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\parametross\parametros\obj\Debug\parametros.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\parametross\parametros\obj\Debug\parametros.csproj.SuggestedBindingRedirects.cache
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\parametross\parametros\obj\Debug\parametros.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\parametross\parametros\obj\Debug\parametros.exe
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\parametross\parametros\obj\Debug\parametros.pdb
